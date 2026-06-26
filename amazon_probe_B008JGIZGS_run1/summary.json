@@ -1,0 +1,24 @@
+{
+  "generated_at_utc": "2026-06-10T10:22:51.876386+00:00",
+  "total_requests": 1,
+  "reachable_requests": 1,
+  "blocked_or_restricted_requests": 0,
+  "request_success_rate": 1.0,
+  "raw_review_count": 9,
+  "unique_review_count": 9,
+  "duplicate_review_count": 0,
+  "duplicate_rate": 0.0,
+  "field_completeness": {
+    "review_id": 1.0,
+    "reviewer_name": 1.0,
+    "rating": 1.0,
+    "title": 0.0,
+    "review_text": 0.0,
+    "review_date_raw": 1.0,
+    "helpful_votes_raw": 0.6667
+  },
+  "result_counts": {
+    "reachable": 1
+  },
+  "note": "This report measures technical accessibility under the tested conditions. A successful response does not by itself establish production suitability."
+}

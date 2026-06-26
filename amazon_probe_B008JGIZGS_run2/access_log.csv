@@ -1,0 +1,3 @@
+﻿requested_at_utc,asin,page_number,requested_url,final_url,http_status,elapsed_ms,response_bytes,redirected,result,parsed_review_count,html_sha256,error
+2026-06-10T10:23:58.825086+00:00,B008JGIZGS,1,https://www.amazon.com/dp/B008JGIZGS/?sortBy=recent&pageNumber=1,https://www.amazon.com/dp/B008JGIZGS/?sortBy=recent&pageNumber=1,200,2297,3087545,False,reachable,9,6aabc51a7fb7904d7d816432c4bf92c4cee722de798d8fc2042edcb64b126a58,
+2026-06-10T10:24:31.359238+00:00,B008JGIZGS,2,https://www.amazon.com/dp/B008JGIZGS/?sortBy=recent&pageNumber=2,https://www.amazon.com/dp/B008JGIZGS/?sortBy=recent&pageNumber=2,200,1342,3146524,False,reachable,9,fae9736a9ff2f5b714132f4bf8b5a488549bb0b001e45d33a8ac6a03ad478251,

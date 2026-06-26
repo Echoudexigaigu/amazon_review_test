@@ -1,0 +1,2 @@
+﻿requested_at_utc,asin,page_number,requested_url,final_url,http_status,elapsed_ms,response_bytes,redirected,result,parsed_review_count,html_sha256,error
+2026-06-10T10:22:48.961858+00:00,B008JGIZGS,1,https://www.amazon.com/dp/B008JGIZGS/?sortBy=recent&pageNumber=1,https://www.amazon.com/dp/B008JGIZGS/?sortBy=recent&pageNumber=1,200,2674,3116699,False,reachable,9,9ddf5eb26a916198f1775370c0b0343687d785cb64a23c95a5a61346bc7f69dd,

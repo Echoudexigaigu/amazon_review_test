@@ -1,0 +1,42 @@
+{
+  "review_blocks": {
+    "div[data-hook=\"review\"]": 9,
+    "div[id^=\"customer_review-\"]": 0,
+    "li[data-hook=\"review\"]": 0
+  },
+  "title_selectors": {
+    "[data-hook=\"review-title\"] span:not(.a-icon-alt)": 0,
+    "[data-hook=\"review-title\"] span": 0,
+    "[data-hook=\"review-title\"]": 0,
+    ".review-title-content span": 0,
+    ".review-title-content": 0,
+    "a.review-title span": 0,
+    "a.review-title": 0,
+    ".review-title": 0
+  },
+  "body_selectors": {
+    "[data-hook=\"review-body\"] span": 0,
+    "[data-hook=\"review-body\"]": 0,
+    ".review-text-content span": 0,
+    ".review-text-content": 0,
+    ".review-text span": 0,
+    ".review-text": 0
+  },
+  "reviewer_selectors": {
+    ".a-profile-name": 9,
+    "[data-hook=\"genome-widget\"] .a-profile-name": 9
+  },
+  "rating_selectors": {
+    "[data-hook=\"review-star-rating\"]": 9,
+    "[data-hook=\"cmps-review-star-rating\"]": 0,
+    ".review-rating": 0
+  },
+  "date_selectors": {
+    "[data-hook=\"review-date\"]": 9,
+    ".review-date": 0
+  },
+  "variant_selectors": {
+    "[data-hook=\"format-strip\"]": 9,
+    ".review-format-strip": 0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "generated_at_utc": "2026-06-25T11:14:33.124044+00:00",
+  "result": "reachable",
+  "http_status": 200,
+  "final_url": "https://www.amazon.com/dp/B008JGIZGS/",
+  "elapsed_ms": 1903,
+  "response_bytes": 3004487,
+  "review_block_count": 9,
+  "parsed_review_count": 9,
+  "duplicate_review_count": 0,
+  "field_completeness": {
+    "review_id": 1.0,
+    "reviewer_name": 1.0,
+    "rating": 1.0,
+    "title": 1.0,
+    "review_text": 1.0,
+    "review_date_raw": 1.0,
+    "variant_raw": 1.0,
+    "review_language": 1.0
+  },
+  "language_counts": {
+    "en-US": 8,
+    "es-MX": 1
+  }
+}

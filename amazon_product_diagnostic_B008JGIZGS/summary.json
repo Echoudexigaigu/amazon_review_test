@@ -1,0 +1,66 @@
+{
+  "generated_at_utc": "2026-06-25T11:07:56.419916+00:00",
+  "http_status": 200,
+  "final_url": "https://www.amazon.com/dp/B008JGIZGS/",
+  "result": "reachable",
+  "response_bytes": 3001439,
+  "review_block_selector": "div[data-hook=\"review\"]",
+  "review_block_count": 9,
+  "parsed_review_count": 9,
+  "unique_review_count": 9,
+  "duplicate_review_count": 0,
+  "field_completeness": {
+    "review_id": 1.0,
+    "reviewer_name": 1.0,
+    "rating": 1.0,
+    "title": 1.0,
+    "review_text": 1.0,
+    "review_date_raw": 1.0,
+    "helpful_votes_raw": 0.8889,
+    "variant_raw": 1.0
+  },
+  "fallback_review_count": 9,
+  "selector_diagnostics": {
+    "review_blocks": {
+      "div[data-hook=\"review\"]": 9,
+      "div[id^=\"customer_review-\"]": 0,
+      "li[data-hook=\"review\"]": 0
+    },
+    "title_selectors": {
+      "[data-hook=\"review-title\"] span:not(.a-icon-alt)": 0,
+      "[data-hook=\"review-title\"] span": 0,
+      "[data-hook=\"review-title\"]": 0,
+      ".review-title-content span": 0,
+      ".review-title-content": 0,
+      "a.review-title span": 0,
+      "a.review-title": 0,
+      ".review-title": 0
+    },
+    "body_selectors": {
+      "[data-hook=\"review-body\"] span": 0,
+      "[data-hook=\"review-body\"]": 0,
+      ".review-text-content span": 0,
+      ".review-text-content": 0,
+      ".review-text span": 0,
+      ".review-text": 0
+    },
+    "reviewer_selectors": {
+      ".a-profile-name": 9,
+      "[data-hook=\"genome-widget\"] .a-profile-name": 9
+    },
+    "rating_selectors": {
+      "[data-hook=\"review-star-rating\"]": 9,
+      "[data-hook=\"cmps-review-star-rating\"]": 0,
+      ".review-rating": 0
+    },
+    "date_selectors": {
+      "[data-hook=\"review-date\"]": 9,
+      ".review-date": 0
+    },
+    "variant_selectors": {
+      "[data-hook=\"format-strip\"]": 9,
+      ".review-format-strip": 0
+    }
+  },
+  "elapsed_ms": 2444
+}
